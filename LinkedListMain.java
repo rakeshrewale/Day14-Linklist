@@ -14,5 +14,7 @@ public class LinkedListMain {
 		linkedlist.display();
 		linkedlist.insertAtSpecificIndex(1,30);
 		linkedlist.display();
+		linkedlist.deleteFirst();
+		linkedlist.display();
 	}
 }
